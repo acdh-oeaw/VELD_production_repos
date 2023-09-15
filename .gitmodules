@@ -1,33 +1,33 @@
 [submodule "veld_chain_5_apis_ner_evaluate_old_models"]
 	path = veld_chain_5_apis_ner_evaluate_old_models
-	url = git@github.com:steffres/veld_chain_5_apis_ner_evaluate_old_models.git
+	url = git@github.com:acdh-oeaw/veld_chain_5_apis_ner_evaluate_old_models.git
 [submodule "veld_chain_6_apis_ner_transform_to_gold"]
 	path = veld_chain_6_apis_ner_transform_to_gold
-	url = git@github.com:steffres/veld_chain_6_apis_ner_transform_to_gold.git
+	url = git@github.com:acdh-oeaw/veld_chain_6_apis_ner_transform_to_gold.git
 [submodule "veld_chain_7_train"]
 	path = veld_chain_7_train
 	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_chain_7_train.git
 [submodule "veld_chain_8_clean_apis_ner"]
 	path = veld_chain_8_clean_apis_ner
-	url = git@github.com:steffres/veld_chain_8_clean_apis_ner.git
+	url = git@github.com:acdh-oeaw/veld_chain_8_clean_apis_ner.git
 [submodule "veld_executable_3_apis_ner_evaluate_old_models"]
 	path = veld_executable_3_apis_ner_evaluate_old_models
-	url = git@github.com:steffres/veld_executable_3_apis_ner_evaluate_old_models.git
+	url = git@github.com:acdh-oeaw/veld_executable_3_apis_ner_evaluate_old_models.git
 [submodule "veld_executable_4_apis_ner_transform_to_gold"]
 	path = veld_executable_4_apis_ner_transform_to_gold
-	url = git@github.com:steffres/veld_executable_4_apis_ner_transform_to_gold.git
+	url = git@github.com:acdh-oeaw/veld_executable_4_apis_ner_transform_to_gold.git
 [submodule "veld_executable_5_simple_docker_test"]
 	path = veld_executable_5_simple_docker_test
-	url = git@github.com:steffres/veld_executable_5_simple_docker_test.git
+	url = git@github.com:acdh-oeaw/veld_executable_5_simple_docker_test.git
 [submodule "veld_executable_6_convert_ner_json_to_spacy_docbin"]
 	path = veld_executable_6_convert_ner_json_to_spacy_docbin
-	url = git@github.com:steffres/veld_executable_6_convert_ner_json_to_spacy_docbin.git
+	url = git@github.com:acdh-oeaw/veld_executable_6_convert_ner_json_to_spacy_docbin.git
 [submodule "veld_executable_7_train_spacy_ner"]
 	path = veld_executable_7_train_spacy_ner
-	url = git@github.com:steffres/veld_executable_7_train_spacy_ner.git
+	url = git@github.com:acdh-oeaw/veld_executable_7_train_spacy_ner.git
 [submodule "veld_executable_8_clean_apis_ner"]
 	path = veld_executable_8_clean_apis_ner
-	url = git@github.com:steffres/veld_executable_8_clean_apis_ner.git
+	url = git@github.com:acdh-oeaw/veld_executable_8_clean_apis_ner.git
 [submodule "veld_data_5_apis_ner_gold"]
 	path = veld_data_5_apis_ner_gold
 	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_5_apis_ner_gold.git
