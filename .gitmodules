@@ -46,3 +46,6 @@
 [submodule "veld_chain_9_akp_ner"]
 	path = veld_chain_9_akp_ner
 	url = git@github.com:acdh-oeaw/veld_chain_9_akp_ner.git
+[submodule "veld_data_7_akp_ner_linkedcat"]
+	path = veld_data_7_akp_ner_linkedcat
+	url = git@github.com:acdh-oeaw/veld_data_7_akp_ner_linkedcat.git
