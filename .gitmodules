@@ -37,3 +37,6 @@
 [submodule "spacy-ner"]
 	path = spacy-ner
 	url = https://gitlab.oeaw.ac.at/acdh-ch/apis/spacy-ner.git
+[submodule "veld_executable_9_jupyter_notebook_base"]
+	path = veld_executable_9_jupyter_notebook_base
+	url = git@github.com:acdh-oeaw/veld_executable_9_jupyter_notebook_base.git
