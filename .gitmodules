@@ -40,3 +40,9 @@
 [submodule "veld_executable_9_jupyter_notebook_base"]
 	path = veld_executable_9_jupyter_notebook_base
 	url = git@github.com:acdh-oeaw/veld_executable_9_jupyter_notebook_base.git
+[submodule "veld_executable_10_akp_ner"]
+	path = veld_executable_10_akp_ner
+	url = git@github.com:steffres/veld_executable_10_akp_ner.git
+[submodule "veld_chain_9_akp_ner"]
+	path = veld_chain_9_akp_ner
+	url = git@github.com:acdh-oeaw/veld_chain_9_akp_ner.git
