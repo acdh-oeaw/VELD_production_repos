@@ -49,3 +49,6 @@
 [submodule "veld_data_7_akp_ner_linkedcat"]
 	path = veld_data_7_akp_ner_linkedcat
 	url = git@github.com:acdh-oeaw/veld_data_7_akp_ner_linkedcat.git
+[submodule "veld_chain_10_apis_ner_to_huggingface"]
+	path = veld_chain_10_apis_ner_to_huggingface
+	url = git@github.com:acdh-oeaw/veld_chain_10_apis_ner_to_huggingface.git
