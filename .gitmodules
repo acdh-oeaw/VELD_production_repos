@@ -52,3 +52,6 @@
 [submodule "veld_chain_10_apis_ner_to_huggingface"]
 	path = veld_chain_10_apis_ner_to_huggingface
 	url = git@github.com:acdh-oeaw/veld_chain_10_apis_ner_to_huggingface.git
+[submodule "APIS_OEBL__abbreviations"]
+	path = APIS_OEBL__abbreviations
+	url = https://huggingface.co/datasets/SteffRhes/APIS_OEBL__abbreviations
