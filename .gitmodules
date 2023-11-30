@@ -52,6 +52,3 @@
 [submodule "veld_chain_10_apis_ner_to_huggingface"]
 	path = veld_chain_10_apis_ner_to_huggingface
 	url = git@github.com:acdh-oeaw/veld_chain_10_apis_ner_to_huggingface.git
-[submodule "veld_executable_11_publish_to_hf"]
-	path = veld_executable_11_publish_to_hf
-	url = ./veld_executable_11_publish_to_hf/
