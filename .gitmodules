@@ -58,6 +58,3 @@
 [submodule "veld_executable_12_fasttext"]
 	path = veld_executable_12_fasttext
 	url = ../veld_executable_12_fasttext/
-[submodule "veld_chain_11_fasttext"]
-	path = veld_chain_11_fasttext
-	url = ../veld_chain_11_fasttext
