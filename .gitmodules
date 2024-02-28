@@ -64,3 +64,12 @@
 [submodule "veld_data_8_fasttext_models"]
 	path = veld_data_8_fasttext_models
 	url = ../veld_data_8_fasttext_models
+[submodule "veld_chain_12_word2vec"]
+	path = veld_chain_12_word2vec
+	url = ../veld_chain_12_word2vec
+[submodule "veld_executable_13_word2vec"]
+	path = veld_executable_13_word2vec
+	url = ../veld_executable_13_word2vec
+[submodule "veld_data_10_we_evaluation"]
+	path = veld_data_10_we_evaluation
+	url = ../veld_data_10_we_evaluation/
