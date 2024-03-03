@@ -55,9 +55,6 @@
 [submodule "veld_executable_11_publish_to_hf"]
 	path = veld_executable_11_publish_to_hf
 	url = ../veld_executable_11_publish_to_hf/
-[submodule "veld_chain_11_fasttext"]
-	path = veld_chain_11_fasttext
-	url = ../veld_chain_11_fasttext
 [submodule "veld_data_8_fasttext_models"]
 	path = veld_data_8_fasttext_models
 	url = ../veld_data_8_fasttext_models
