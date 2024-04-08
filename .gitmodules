@@ -73,3 +73,6 @@
 [submodule "veld_chain_11_fasttext"]
 	path = veld_chain_11_fasttext
 	url = https://github.com/acdh-oeaw/veld_chain_11_fasttext.git
+[submodule "veld_data_9_we_training_data"]
+	path = veld_data_9_we_training_data
+	url = ssh://git@gitlab.oeaw.ac.at:2222/acdh-ch/nlp/veld_data_9_we_training_data.git
