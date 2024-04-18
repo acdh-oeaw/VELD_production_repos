@@ -76,3 +76,6 @@
 [submodule "veld_data_9_we_training_data"]
 	path = veld_data_9_we_training_data
 	url = ssh://git@gitlab.oeaw.ac.at:2222/acdh-ch/nlp/veld_data_9_we_training_data.git
+[submodule "veld_executable_14_we_evaluation"]
+	path = veld_executable_14_we_evaluation
+	url = https://github.com/acdh-oeaw/veld_executable_14_we_evaluation.git
