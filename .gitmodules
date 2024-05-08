@@ -82,3 +82,6 @@
 [submodule "veld_executable_15_udpipe"]
 	path = veld_executable_15_udpipe
 	url = https://github.com/acdh-oeaw/veld_executable_15_udpipe.git
+[submodule "veld_chain_13_udpipe"]
+	path = veld_chain_13_udpipe
+	url = https://github.com/acdh-oeaw/veld_chain_13_udpipe.git
