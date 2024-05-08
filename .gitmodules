@@ -79,3 +79,6 @@
 [submodule "veld_executable_14_we_evaluation"]
 	path = veld_executable_14_we_evaluation
 	url = https://github.com/acdh-oeaw/veld_executable_14_we_evaluation.git
+[submodule "veld_executable_15_udpipe"]
+	path = veld_executable_15_udpipe
+	url = https://github.com/acdh-oeaw/veld_executable_15_udpipe.git
