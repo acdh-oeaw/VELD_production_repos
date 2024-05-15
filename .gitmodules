@@ -6,7 +6,7 @@
 	url = git@github.com:acdh-oeaw/veld_chain_6_apis_ner_transform_to_gold.git
 [submodule "veld_chain_7_train"]
 	path = veld_chain_7_train
-	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_chain_7_train.git
+  url = https://github.com/acdh-oeaw/veld_chain_7_train.git
 [submodule "veld_chain_8_clean_apis_ner"]
 	path = veld_chain_8_clean_apis_ner
 	url = git@github.com:acdh-oeaw/veld_chain_8_clean_apis_ner.git
