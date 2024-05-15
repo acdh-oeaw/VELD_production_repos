@@ -94,3 +94,9 @@
 [submodule "veld_data_11_eltec_udpipe_conllu"]
 	path = veld_data_11_eltec_udpipe_conllu
 	url = https://github.com/acdh-oeaw/veld_data_11_eltec_udpipe_conllu.git
+[submodule "veld_executable_17_glove"]
+	path = veld_executable_17_glove
+	url = https://github.com/acdh-oeaw/veld_executable_17_glove.git
+[submodule "veld_chain_15_glove"]
+	path = veld_chain_15_glove
+	url = https://github.com/acdh-oeaw/veld_chain_15_glove.git
