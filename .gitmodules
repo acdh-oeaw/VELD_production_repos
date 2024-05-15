@@ -85,3 +85,12 @@
 [submodule "veld_chain_12_word2vec_TMP"]
 	path = veld_chain_12_word2vec
 	url = https://github.com/acdh-oeaw/veld_chain_12_word2vec.git
+[submodule "veld_executable_16_xml_xslt_transformer"]
+	path = veld_executable_16_xml_xslt_transformer
+	url = https://github.com/acdh-oeaw/veld_executable_16_xml_xslt_transformer.git
+[submodule "veld_chain_14_xml_to_udpipe"]
+	path = veld_chain_14_xml_to_udpipe
+	url = https://github.com/acdh-oeaw/veld_chain_14_xml_to_udpipe.git
+[submodule "veld_data_11_eltec_udpipe_conllu"]
+	path = veld_data_11_eltec_udpipe_conllu
+	url = https://github.com/acdh-oeaw/veld_data_11_eltec_udpipe_conllu.git
