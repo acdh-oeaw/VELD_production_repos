@@ -82,7 +82,7 @@
 [submodule "veld_chain_13_udpipe"]
 	path = veld_chain_13_udpipe
 	url = https://github.com/acdh-oeaw/veld_chain_13_udpipe.git
-[submodule "veld_chain_12_word2vec_TMP"]
+[submodule "veld_chain_12_word2vec"]
 	path = veld_chain_12_word2vec
 	url = https://github.com/acdh-oeaw/veld_chain_12_word2vec.git
 [submodule "veld_executable_16_xml_xslt_transformer"]
