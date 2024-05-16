@@ -97,3 +97,6 @@
 [submodule "veld_chain_15_glove"]
 	path = veld_chain_15_glove
 	url = https://github.com/acdh-oeaw/veld_chain_15_glove.git
+[submodule "veld_data_11_word2vec_models"]
+	path = veld_data_11_word2vec_models
+	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_11_word2vec_models.git
