@@ -91,9 +91,6 @@
 [submodule "veld_chain_14_xml_to_udpipe"]
 	path = veld_chain_14_xml_to_udpipe
 	url = https://github.com/acdh-oeaw/veld_chain_14_xml_to_udpipe.git
-[submodule "veld_data_11_eltec_udpipe_conllu"]
-	path = veld_data_11_eltec_udpipe_conllu
-	url = https://github.com/acdh-oeaw/veld_data_11_eltec_udpipe_conllu.git
 [submodule "veld_executable_17_glove"]
 	path = veld_executable_17_glove
 	url = https://github.com/acdh-oeaw/veld_executable_17_glove.git
