@@ -28,9 +28,6 @@
 [submodule "veld_executable_8_clean_apis_ner"]
 	path = veld_executable_8_clean_apis_ner
 	url = git@github.com:acdh-oeaw/veld_executable_8_clean_apis_ner.git
-[submodule "veld_data_5_apis_ner_gold"]
-	path = veld_data_5_apis_ner_gold
-	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_5_apis_ner_gold.git
 [submodule "veld_data_6_apis_ner_models"]
 	path = veld_data_6_apis_ner_models
 	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_6_apis_ner_models.git
