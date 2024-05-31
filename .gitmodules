@@ -109,3 +109,6 @@
 [submodule "veld_executable_18_clscorgi"]
 	path = veld_executable_18_clscorgi
 	url = https://github.com/acdh-oeaw/veld_executable_18_clscorgi.git
+[submodule "veld_data_5_apis_oebl__ner_gold"]
+	path = veld_data_5_apis_oebl__ner_gold
+	url = https://github.com/acdh-oeaw/veld_data_5_apis_oebl__ner_gold.git
