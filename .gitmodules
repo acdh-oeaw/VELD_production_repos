@@ -57,7 +57,7 @@
 	url = ../veld_executable_11_publish_to_hf/
 [submodule "veld_data_8_fasttext_models"]
 	path = veld_data_8_fasttext_models
-	url = ../veld_data_8_fasttext_models
+  url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_8_fasttext_models.git
 [submodule "veld_executable_13_word2vec"]
 	path = veld_executable_13_word2vec
 	url = ../veld_executable_13_word2vec
