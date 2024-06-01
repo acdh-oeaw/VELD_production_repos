@@ -45,16 +45,16 @@
 	url = git@github.com:acdh-oeaw/veld_chain_10_apis_ner_to_huggingface.git
 [submodule "veld_executable_11_publish_to_hf"]
 	path = veld_executable_11_publish_to_hf
-	url = ../veld_executable_11_publish_to_hf/
+	url = https://github.com/acdh-oeaw/veld_executable_11_publish_to_hf.git
 [submodule "veld_data_8_fasttext_models"]
 	path = veld_data_8_fasttext_models
   url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_8_fasttext_models.git
 [submodule "veld_executable_13_word2vec"]
 	path = veld_executable_13_word2vec
-	url = ../veld_executable_13_word2vec
+	url = https://github.com/acdh-oeaw/veld_executable_13_word2vec.git
 [submodule "veld_data_10_we_evaluation"]
 	path = veld_data_10_we_evaluation
-	url = ../veld_data_10_we_evaluation/
+	url = https://github.com/acdh-oeaw/veld_data_10_we_evaluation.git
 [submodule "veld_executable_12_fasttext"]
 	path = veld_executable_12_fasttext
 	url = https://github.com/acdh-oeaw/veld_executable_12_fasttext.git
