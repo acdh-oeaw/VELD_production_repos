@@ -7,9 +7,6 @@
 [submodule "veld_chain_7_train"]
 	path = veld_chain_7_train
   url = https://github.com/acdh-oeaw/veld_chain_7_train.git
-[submodule "veld_chain_8_clean_apis_ner"]
-	path = veld_chain_8_clean_apis_ner
-	url = git@github.com:acdh-oeaw/veld_chain_8_clean_apis_ner.git
 [submodule "veld_executable_3_apis_ner_evaluate_old_models"]
 	path = veld_executable_3_apis_ner_evaluate_old_models
 	url = git@github.com:acdh-oeaw/veld_executable_3_apis_ner_evaluate_old_models.git
@@ -25,9 +22,6 @@
 [submodule "veld_executable_7_train_spacy_ner"]
 	path = veld_executable_7_train_spacy_ner
 	url = git@github.com:acdh-oeaw/veld_executable_7_train_spacy_ner.git
-[submodule "veld_executable_8_clean_apis_ner"]
-	path = veld_executable_8_clean_apis_ner
-	url = git@github.com:acdh-oeaw/veld_executable_8_clean_apis_ner.git
 [submodule "veld_data_6_apis_ner_models"]
 	path = veld_data_6_apis_ner_models
 	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_6_apis_ner_models.git
