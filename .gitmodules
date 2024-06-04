@@ -1,90 +1,90 @@
 [submodule "veld_chain_5_apis_ner_evaluate_old_models"]
 	path = veld_chain_5_apis_ner_evaluate_old_models
-	url = git@github.com:acdh-oeaw/veld_chain_5_apis_ner_evaluate_old_models.git
+	url = https://github.com/acdh-oeaw/veld_chain_5_apis_ner_evaluate_old_models.git
 [submodule "veld_chain_6_apis_ner_transform_to_gold"]
 	path = veld_chain_6_apis_ner_transform_to_gold
-	url = git@github.com:acdh-oeaw/veld_chain_6_apis_ner_transform_to_gold.git
+	url = https://github.com/acdh-oeaw/veld_chain_6_apis_ner_transform_to_gold.git
 [submodule "veld_chain_7_train"]
 	path = veld_chain_7_train
   url = https://github.com/acdh-oeaw/veld_chain_7_train.git
-[submodule "veld_executable_3_apis_ner_evaluate_old_models"]
-	path = veld_executable_3_apis_ner_evaluate_old_models
-	url = git@github.com:acdh-oeaw/veld_executable_3_apis_ner_evaluate_old_models.git
-[submodule "veld_executable_4_apis_ner_transform_to_gold"]
-	path = veld_executable_4_apis_ner_transform_to_gold
-	url = git@github.com:acdh-oeaw/veld_executable_4_apis_ner_transform_to_gold.git
-[submodule "veld_executable_5_simple_docker_test"]
-	path = veld_executable_5_simple_docker_test
-	url = git@github.com:acdh-oeaw/veld_executable_5_simple_docker_test.git
-[submodule "veld_executable_6_convert_ner_json_to_spacy_docbin"]
-	path = veld_executable_6_convert_ner_json_to_spacy_docbin
-	url = git@github.com:acdh-oeaw/veld_executable_6_convert_ner_json_to_spacy_docbin.git
-[submodule "veld_executable_7_train_spacy_ner"]
-	path = veld_executable_7_train_spacy_ner
-	url = git@github.com:acdh-oeaw/veld_executable_7_train_spacy_ner.git
+[submodule "veld_code_3_apis_ner_evaluate_old_models"]
+	path = veld_code_3_apis_ner_evaluate_old_models
+	url = https://github.com/acdh-oeaw/veld_code_3_apis_ner_evaluate_old_models.git
+[submodule "veld_code_4_apis_ner_transform_to_gold"]
+	path = veld_code_4_apis_ner_transform_to_gold
+	url = https://github.com/acdh-oeaw/veld_code_4_apis_ner_transform_to_gold.git
+[submodule "veld_code_5_simple_docker_test"]
+	path = veld_code_5_simple_docker_test
+	url = https://github.com/acdh-oeaw/veld_code_5_simple_docker_test.git
+[submodule "veld_code_6_convert_ner_json_to_spacy_docbin"]
+	path = veld_code_6_convert_ner_json_to_spacy_docbin
+	url = https://github.com/acdh-oeaw/veld_code_6_convert_ner_json_to_spacy_docbin.git
+[submodule "veld_code_7_train_spacy_ner"]
+	path = veld_code_7_train_spacy_ner
+	url = https://github.com/acdh-oeaw/veld_code_7_train_spacy_ner.git
 [submodule "veld_data_6_apis_ner_models"]
 	path = veld_data_6_apis_ner_models
 	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_6_apis_ner_models.git
 [submodule "spacy-ner"]
 	path = spacy-ner
 	url = https://gitlab.oeaw.ac.at/acdh-ch/apis/spacy-ner.git
-[submodule "veld_executable_9_jupyter_notebook_base"]
-	path = veld_executable_9_jupyter_notebook_base
-	url = git@github.com:acdh-oeaw/veld_executable_9_jupyter_notebook_base.git
-[submodule "veld_executable_10_akp_ner"]
-	path = veld_executable_10_akp_ner
-  url = https://github.com/acdh-oeaw/veld_executable_10_akp_ner.git
+[submodule "veld_code_9_jupyter_notebook_base"]
+	path = veld_code_9_jupyter_notebook_base
+	url = https://github.com/acdh-oeaw/veld_code_9_jupyter_notebook_base.git
+[submodule "veld_code_10_akp_ner"]
+	path = veld_code_10_akp_ner
+  url = https://github.com/acdh-oeaw/veld_code_10_akp_ner.git
 [submodule "veld_chain_9_akp_ner"]
 	path = veld_chain_9_akp_ner
-	url = git@github.com:acdh-oeaw/veld_chain_9_akp_ner.git
+	url = https://github.com/acdh-oeaw/veld_chain_9_akp_ner.git
 [submodule "veld_data_7_akp_ner_linkedcat"]
 	path = veld_data_7_akp_ner_linkedcat
-	url = git@github.com:acdh-oeaw/veld_data_7_akp_ner_linkedcat.git
+	url = https://github.com/acdh-oeaw/veld_data_7_akp_ner_linkedcat.git
 [submodule "veld_chain_10_apis_ner_to_huggingface"]
 	path = veld_chain_10_apis_ner_to_huggingface
-	url = git@github.com:acdh-oeaw/veld_chain_10_apis_ner_to_huggingface.git
-[submodule "veld_executable_11_publish_to_hf"]
-	path = veld_executable_11_publish_to_hf
-	url = https://github.com/acdh-oeaw/veld_executable_11_publish_to_hf.git
+	url = https://github.com/acdh-oeaw/veld_chain_10_apis_ner_to_huggingface.git
+[submodule "veld_code_11_publish_to_hf"]
+	path = veld_code_11_publish_to_hf
+	url = https://github.com/acdh-oeaw/veld_code_11_publish_to_hf.git
 [submodule "veld_data_8_fasttext_models"]
 	path = veld_data_8_fasttext_models
   url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_8_fasttext_models.git
-[submodule "veld_executable_13_word2vec"]
-	path = veld_executable_13_word2vec
-	url = https://github.com/acdh-oeaw/veld_executable_13_word2vec.git
+[submodule "veld_code_13_word2vec"]
+	path = veld_code_13_word2vec
+	url = https://github.com/acdh-oeaw/veld_code_13_word2vec.git
 [submodule "veld_data_10_we_evaluation"]
 	path = veld_data_10_we_evaluation
 	url = https://github.com/acdh-oeaw/veld_data_10_we_evaluation.git
-[submodule "veld_executable_12_fasttext"]
-	path = veld_executable_12_fasttext
-	url = https://github.com/acdh-oeaw/veld_executable_12_fasttext.git
+[submodule "veld_code_12_fasttext"]
+	path = veld_code_12_fasttext
+	url = https://github.com/acdh-oeaw/veld_code_12_fasttext.git
 [submodule "veld_chain_11_fasttext"]
 	path = veld_chain_11_fasttext
 	url = https://github.com/acdh-oeaw/veld_chain_11_fasttext.git
 [submodule "veld_data_9_we_training_data"]
 	path = veld_data_9_we_training_data
 	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_9_we_training_data.git
-[submodule "veld_executable_14_we_evaluation"]
-	path = veld_executable_14_we_evaluation
-	url = https://github.com/acdh-oeaw/veld_executable_14_we_evaluation.git
-[submodule "veld_executable_15_udpipe"]
-	path = veld_executable_15_udpipe
-	url = https://github.com/acdh-oeaw/veld_executable_15_udpipe.git
+[submodule "veld_code_14_we_evaluation"]
+	path = veld_code_14_we_evaluation
+	url = https://github.com/acdh-oeaw/veld_code_14_we_evaluation.git
+[submodule "veld_code_15_udpipe"]
+	path = veld_code_15_udpipe
+	url = https://github.com/acdh-oeaw/veld_code_15_udpipe.git
 [submodule "veld_chain_13_udpipe"]
 	path = veld_chain_13_udpipe
 	url = https://github.com/acdh-oeaw/veld_chain_13_udpipe.git
 [submodule "veld_chain_12_word2vec"]
 	path = veld_chain_12_word2vec
 	url = https://github.com/acdh-oeaw/veld_chain_12_word2vec.git
-[submodule "veld_executable_16_xml_xslt_transformer"]
-	path = veld_executable_16_xml_xslt_transformer
-	url = https://github.com/acdh-oeaw/veld_executable_16_xml_xslt_transformer.git
+[submodule "veld_code_16_xml_xslt_transformer"]
+	path = veld_code_16_xml_xslt_transformer
+	url = https://github.com/acdh-oeaw/veld_code_16_xml_xslt_transformer.git
 [submodule "veld_chain_14_xml_to_udpipe"]
 	path = veld_chain_14_xml_to_udpipe
 	url = https://github.com/acdh-oeaw/veld_chain_14_xml_to_udpipe.git
-[submodule "veld_executable_17_glove"]
-	path = veld_executable_17_glove
-	url = https://github.com/acdh-oeaw/veld_executable_17_glove.git
+[submodule "veld_code_17_glove"]
+	path = veld_code_17_glove
+	url = https://github.com/acdh-oeaw/veld_code_17_glove.git
 [submodule "veld_chain_15_glove"]
 	path = veld_chain_15_glove
 	url = https://github.com/acdh-oeaw/veld_chain_15_glove.git
@@ -97,9 +97,9 @@
 [submodule "veld_chain_16_clscorgi"]
 	path = veld_chain_16_clscorgi
 	url = https://github.com/acdh-oeaw/veld_chain_16_clscorgi.git
-[submodule "veld_executable_18_clscorgi"]
-	path = veld_executable_18_clscorgi
-	url = https://github.com/acdh-oeaw/veld_executable_18_clscorgi.git
+[submodule "veld_code_18_clscorgi"]
+	path = veld_code_18_clscorgi
+	url = https://github.com/acdh-oeaw/veld_code_18_clscorgi.git
 [submodule "veld_data_5_apis_oebl__ner_gold"]
 	path = veld_data_5_apis_oebl__ner_gold
 	url = https://github.com/acdh-oeaw/veld_data_5_apis_oebl__ner_gold.git
