@@ -25,8 +25,8 @@
 [submodule "veld_data_6_apis_ner_models"]
 	path = veld_data_6_apis_ner_models
 	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_6_apis_ner_models.git
-[submodule "spacy-ner"]
-	path = spacy-ner
+[submodule "veld_data_2_spacy_ner"]
+	path = veld_data_2_spacy_ner
 	url = https://gitlab.oeaw.ac.at/acdh-ch/apis/spacy-ner.git
 [submodule "veld_code_9_jupyter_notebook_base"]
 	path = veld_code_9_jupyter_notebook_base
