@@ -16,9 +16,6 @@
 [submodule "veld_code_5_simple_docker_test"]
 	path = veld_code_5_simple_docker_test
 	url = https://github.com/acdh-oeaw/veld_code_5_simple_docker_test.git
-[submodule "veld_code_6_convert_ner_json_to_spacy_docbin"]
-	path = veld_code_6_convert_ner_json_to_spacy_docbin
-	url = https://github.com/acdh-oeaw/veld_code_6_convert_ner_json_to_spacy_docbin.git
 [submodule "veld_code_7_train_spacy_ner"]
 	path = veld_code_7_train_spacy_ner
 	url = https://github.com/acdh-oeaw/veld_code_7_train_spacy_ner.git
