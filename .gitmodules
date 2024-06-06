@@ -76,9 +76,6 @@
 [submodule "veld_code_16_xml_xslt_transformer"]
 	path = veld_code_16_xml_xslt_transformer
 	url = https://github.com/acdh-oeaw/veld_code_16_xml_xslt_transformer.git
-[submodule "veld_chain_14_xml_to_udpipe"]
-	path = veld_chain_14_xml_to_udpipe
-	url = https://github.com/acdh-oeaw/veld_chain_14_xml_to_udpipe.git
 [submodule "veld_code_17_glove"]
 	path = veld_code_17_glove
 	url = https://github.com/acdh-oeaw/veld_code_17_glove.git
