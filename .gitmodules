@@ -97,3 +97,6 @@
 [submodule "veld_data_5_apis_oebl__ner_gold"]
 	path = veld_data_5_apis_oebl__ner_gold
 	url = https://github.com/acdh-oeaw/veld_data_5_apis_oebl__ner_gold.git
+[submodule "veld_chain_14_eltec_udpipe_inference"]
+	path = veld_chain_14_eltec_udpipe_inference
+	url = https://github.com/acdh-oeaw/veld_chain_14_eltec_udpipe_inference.git
