@@ -109,3 +109,6 @@
 [submodule "veld_data_15_eltec_udpipe_conllu"]
 	path = veld_data_15_eltec_udpipe_conllu
 	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_15_eltec_udpipe_conllu.git
+[submodule "veld_data_16_eltec_conllu_stats"]
+	path = veld_data_16_eltec_conllu_stats
+	url = https://github.com/acdh-oeaw/veld_data_16_eltec_conllu_stats.git
