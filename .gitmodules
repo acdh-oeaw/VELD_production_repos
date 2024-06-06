@@ -85,9 +85,6 @@
 [submodule "veld_data_11_word2vec_models"]
 	path = veld_data_11_word2vec_models
 	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_11_word2vec_models.git
-[submodule "veld_data_12_eltec_udpipe_conllu"]
-	path = veld_data_12_eltec_udpipe_conllu
-	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_12_eltec_udpipe_conllu.git
 [submodule "veld_chain_16_clscorgi"]
 	path = veld_chain_16_clscorgi
 	url = https://github.com/acdh-oeaw/veld_chain_16_clscorgi.git
