@@ -100,3 +100,12 @@
 [submodule "veld_data_12_eltec_original_selection"]
 	path = veld_data_12_eltec_original_selection
 	url = https://github.com/acdh-oeaw/veld_data_12_eltec_original_selection.git
+[submodule "veld_data_13_eltec_txt_transformed"]
+	path = veld_data_13_eltec_txt_transformed
+	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_13_eltec_txt_transformed.git
+[submodule "veld_data_14_udpipe_models"]
+	path = veld_data_14_udpipe_models
+	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_14_udpipe_models.git
+[submodule "veld_data_15_eltec_udpipe_conllu"]
+	path = veld_data_15_eltec_udpipe_conllu
+	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_15_eltec_udpipe_conllu.git
