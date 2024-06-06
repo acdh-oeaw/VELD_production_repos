@@ -100,3 +100,6 @@
 [submodule "veld_chain_14_eltec_udpipe_inference"]
 	path = veld_chain_14_eltec_udpipe_inference
 	url = https://github.com/acdh-oeaw/veld_chain_14_eltec_udpipe_inference.git
+[submodule "veld_data_12_eltec_original_selection"]
+	path = veld_data_12_eltec_original_selection
+	url = https://github.com/acdh-oeaw/veld_data_12_eltec_original_selection.git
