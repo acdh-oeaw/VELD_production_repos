@@ -121,3 +121,6 @@
 [submodule "veld_data_19_mara_models"]
 	path = veld_data_19_mara_models
 	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_19_mara_models.git
+[submodule "veld_chain_18_MARA_load_and_publish_models"]
+	path = veld_chain_18_MARA_load_and_publish_models
+	url = https://github.com/acdh-oeaw/veld_chain_18_MARA_load_and_publish_models.git
