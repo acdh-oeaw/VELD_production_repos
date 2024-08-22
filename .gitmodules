@@ -58,9 +58,9 @@
 [submodule "veld_chain_11_fasttext"]
 	path = veld_chain_11_fasttext
 	url = https://github.com/acdh-oeaw/veld_chain_11_fasttext.git
-[submodule "veld_data_9_we_training_data"]
-	path = veld_data_9_we_training_data
-	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_9_we_training_data.git
+[submodule "veld_data_9_wikpedia_we_training_data"]
+	path = veld_data_9_wikpedia_we_training_data
+	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_9_wikpedia_we_training_data.git
 [submodule "veld_code_14_we_evaluation"]
 	path = veld_code_14_we_evaluation
 	url = https://github.com/acdh-oeaw/veld_code_14_we_evaluation.git
