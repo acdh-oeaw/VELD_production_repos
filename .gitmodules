@@ -124,3 +124,6 @@
 [submodule "veld_code_19_amc_preprocessing"]
 	path = veld_code_19_amc_preprocessing
 	url = https://github.com/acdh-oeaw/veld_code_19_amc_preprocessing.git
+[submodule "veld_data_9_wikpedia_we_training_data"]
+	path = veld_data_9_wikpedia_we_training_data
+	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_9_wikpedia_we_training_data.git
