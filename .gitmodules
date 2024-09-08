@@ -130,3 +130,6 @@
 [submodule "veld_code_20_wikipedia_we_preprocessing"]
 	path = veld_code_20_wikipedia_we_preprocessing
 	url = https://github.com/acdh-oeaw/veld_code_20_wikipedia_we_preprocessing.git
+[submodule "veld_chain_19_train_infer_wordembeddings_multiple_architectures__amc"]
+	path = veld_chain_19_train_infer_wordembeddings_multiple_architectures__amc
+	url = https://github.com/acdh-oeaw/veld_chain_19_train_infer_wordembeddings_multiple_architectures__amc.git
