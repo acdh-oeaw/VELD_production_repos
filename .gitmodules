@@ -43,9 +43,6 @@
 [submodule "veld_code_11_publish_to_hf"]
 	path = veld_code_11_publish_to_hf
 	url = https://github.com/acdh-oeaw/veld_code_11_publish_to_hf.git
-[submodule "veld_data_8_fasttext_models"]
-	path = veld_data_8_fasttext_models
-  url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_8_fasttext_models.git
 [submodule "veld_code_13_word2vec"]
 	path = veld_code_13_word2vec
 	url = https://github.com/acdh-oeaw/veld_code_13_word2vec.git
@@ -106,9 +103,6 @@
 [submodule "veld_data_16_eltec_conllu_stats"]
 	path = veld_data_16_eltec_conllu_stats
 	url = https://github.com/acdh-oeaw/veld_data_16_eltec_conllu_stats.git
-[submodule "veld_data_17_glove_models"]
-	path = veld_data_17_glove_models
-	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_17_glove_models.git
 [submodule "veld_chain_17_train_infer_wordembeddings_multiple_architectures"]
 	path = veld_chain_17_train_infer_wordembeddings_multiple_architectures__wiki
 	url = https://github.com/acdh-oeaw/veld_chain_17_train_infer_wordembeddings_multiple_architectures.git
