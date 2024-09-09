@@ -130,3 +130,6 @@
 [submodule "veld_chain_19_train_infer_wordembeddings_multiple_architectures__amc"]
 	path = veld_chain_19_train_infer_wordembeddings_multiple_architectures__amc
 	url = https://github.com/acdh-oeaw/veld_chain_19_train_infer_wordembeddings_multiple_architectures__amc.git
+[submodule "veld_data_11_word2vec_models"]
+	path = veld_data_11_word2vec_models
+	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_11_word2vec_models.git
