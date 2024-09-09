@@ -121,9 +121,9 @@
 [submodule "veld_chain_18_MARA_load_and_publish_models"]
 	path = veld_chain_18_MARA_load_and_publish_models
 	url = https://github.com/acdh-oeaw/veld_chain_18_MARA_load_and_publish_models.git
-[submodule "veld_code_19_amc_preprocessing"]
-	path = veld_code_19_amc_preprocessing
-	url = https://github.com/acdh-oeaw/veld_code_19_amc_preprocessing.git
+[submodule "veld_code_19_we_preprocessing"]
+	path = veld_code_19_we_preprocessing
+	url = https://github.com/acdh-oeaw/veld_code_19_we_preprocessing.git
 [submodule "veld_data_9_wikpedia_we_training_data"]
 	path = veld_data_9_wikpedia_we_training_data
 	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_9_wikpedia_we_training_data.git
