@@ -133,3 +133,6 @@
 [submodule "veld_data_17_glove_models"]
 	path = veld_data_17_glove_models
 	url = https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_17_glove_models.git
+[submodule "veld_data_20_wikipedia_de_sample_extracted"]
+	path = veld_data_20_wikipedia_de_sample_extracted
+	url = https://huggingface.co/datasets/SteffRhes/veld_data_20_wikipedia_de_sample_extracted
