@@ -133,3 +133,6 @@
 [submodule "veld_data_20_wikipedia_de_sample_extracted"]
 	path = veld_data_20_wikipedia_de_sample_extracted
 	url = https://huggingface.co/datasets/SteffRhes/veld_data_20_wikipedia_de_sample_extracted
+[submodule "veld_code_xmlanntools"]
+	path = veld_code_xmlanntools
+	url = https://github.com/SteffRhes/veld_code_xmlanntools.git
