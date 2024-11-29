@@ -136,3 +136,6 @@
 [submodule "veld_code_xmlanntools"]
 	path = veld_code_xmlanntools
 	url = https://github.com/SteffRhes/veld_code_xmlanntools.git
+[submodule "veld_chain_demo_xmlanntools"]
+	path = veld_chain_demo_xmlanntools
+	url = https://github.com/SteffRhes/veld_chain_demo_xmlanntools.git
