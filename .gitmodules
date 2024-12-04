@@ -139,3 +139,9 @@
 [submodule "veld_chain_demo_xmlanntools"]
 	path = veld_chain_demo_xmlanntools
 	url = https://github.com/SteffRhes/veld_chain_demo_xmlanntools.git
+[submodule "veld_code_teitok-tools"]
+	path = veld_code_teitok-tools
+	url = https://github.com/SteffRhes/veld_code_teitok-tools
+[submodule "veld_chain_demo_teitok-tools"]
+	path = veld_chain_demo_teitok-tools
+	url = https://github.com/SteffRhes/veld_chain_demo_teitok-tools.git
